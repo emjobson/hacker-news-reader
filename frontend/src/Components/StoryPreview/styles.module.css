@@ -1,0 +1,54 @@
+.container {
+  margin: 1em 0;
+}
+
+.title {
+  color: black;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title:visited {
+  color: grey;
+}
+
+.domain {
+  color: grey;
+  margin-left: 0.5em;
+  font-size: 0.8em;
+  text-decoration: none;
+}
+
+.domain:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.points {
+  color: grey;
+  font-weight: bold;
+  font-size: 0.8em;
+  margin-right: 0.5em;
+}
+
+.user,
+.comments {
+  color: #b92b27;
+  margin-right: 0.5em;
+  font-weight: bold;
+  font-size: 0.8em;
+  text-decoration: none;
+}
+
+.user:hover,
+.comments:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.time {
+  color: grey;
+  font-weight: bold;
+  margin-right: 0.5em;
+  font-size: 0.8em;
+}

@@ -1,0 +1,18 @@
+.list {
+  padding-top: 60px;
+  margin-top: 0;
+}
+
+.prev,
+.next {
+  color: #b92b27;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 2em;
+  margin-bottom: 2em;
+}
+
+.prev:hover,
+.next:hover {
+  text-decoration: underline;
+}

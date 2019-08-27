@@ -1,0 +1,26 @@
+.nav {
+  position: fixed;
+  background-color: #b92b27;
+  height: 3.5em;
+  left: 90px;
+  right: 90px;
+  display: flex;
+  align-items: center;
+}
+
+.mainLink {
+  color: hsla(0, 0%, 100%, 0.9);
+  font-family: HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue,
+    Helvetica, Arial, Lucida Grande, sans-serif;
+  margin: 0.25em;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.link {
+  color: hsla(0, 0%, 100%, 0.9);
+  font-family: HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue,
+    Helvetica, Arial, Lucida Grande, sans-serif;
+  margin: 0.25em;
+  cursor: pointer;
+}
